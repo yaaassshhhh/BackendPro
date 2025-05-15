@@ -1,0 +1,1 @@
+bcrypt is used to encrypt PW before storing and then decrypt as well upon fetch
